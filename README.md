@@ -10,7 +10,8 @@ https://youtu.be/vDEzBrBdxic
 
 ## System Overview
 
-<img width="994" height="464" alt="image" src="https://github.com/user-attachments/assets/80e7504b-e51a-4330-8e86-292b434d58b9" />
+<img width="983" height="462" alt="image" src="https://github.com/user-attachments/assets/1d042d5a-9927-45fb-bcbe-d56f1cc5e899" />
+
 
 ## Detection Results
 
