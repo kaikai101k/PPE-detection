@@ -4,6 +4,10 @@ A real-time PPE compliance monitoring system developed for Georgia Tech's Machin
 
 The system uses a custom-trained YOLOv8 model deployed on a Raspberry Pi 5 with a Hailo AI HAT+ accelerator to detect personnel and safety glasses in real time. Detection results are displayed through an 8×32 WS2812 LED matrix, providing immediate visual feedback for machine shop safety compliance.
 
+## Project Demo
+
+https://youtu.be/vDEzBrBdxic
+
 ## System Overview
 
 <img width="994" height="464" alt="image" src="https://github.com/user-attachments/assets/80e7504b-e51a-4330-8e86-292b434d58b9" />
@@ -11,10 +15,6 @@ The system uses a custom-trained YOLOv8 model deployed on a Raspberry Pi 5 with 
 ## Detection Results
 
 <img width="547" height="466" alt="image" src="https://github.com/user-attachments/assets/1dd79f45-277e-452e-aaba-9445b83fb738" />
-
-## Project Demo
-
-https://youtu.be/vDEzBrBdxic
 
 ## LED Status Indicator
 
